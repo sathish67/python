@@ -1,4 +1,4 @@
-import calculator
+import Basics.module.calculator as calculator
 
 from math import sqrt
 
